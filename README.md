@@ -31,12 +31,41 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/113594316/88273b69-4e7d-4f42-9115-fb07ac22e4ec)
 
 ## Output:
+![Screenshot 2023-05-25 at 17-20-58 22003264_Ex -No -4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE](https://github.com/jayasridodda/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/123259278/67732e09-bf06-4613-a49e-1662b1d26291)
+
+## Y-AXIS BASE :
+The base of the printer that supports the rest of the components, Y-axis typically refers to the vertical movement of the print head or the printing platform.
+## Z-AXIS FRAME :
+Z-axis typically represents the vertical movement of the print head or the printing platform. While the Y-axis is associated with the rotation around the vertical axis 
+## SMOOTH RODS :
+smooth rods play a crucial role in providing stability and smooth movement for various components of the printer.
+## MOTORS :
+They play a critical role in driving the movement of various components and enabling the printing process.
+## EXTRUDER SUPPORTER :
+The support structure that holds the extruder assembly
+## THREADED ROD :
+They can vary depending on the specific design and implementation. 
+## Y-AXIS FRAME :
+It plays a crucial role in providing stability and support for the Y-axis movement. 
+## MOTOR WITH GEAR:
+They can translate the rotational motion of the motor into the desired movement of various components.
+## MOTOR-WITH-PULLEY :
+Motor-with-pulley assembly serves an essential role in driving the movement of the print bed or the print head along the Y-axis.
+## GEARS :
+Gears can play various roles depending on the specific design and implementation.
+## PLATE :
+Plate serves as a fundamental component that provides a stable and level surface for the printing process. 
+## EXTRUDER :
+In the 3D printing process by depositing the filament material onto the print bed or previously printed layers.
+## FILAMENT:
+The filament is a thermoplastic material that is fed into the 3D printer to create objects layer by layer. 
+
+![EXP 4 PH](https://github.com/jayasridodda/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/123259278/346d4dd0-c194-4a22-b87e-b519d5bfccdf)
 
 
 
-
-### Name:
-### Register Number:
+### Name: JAYASRI DODDA 
+### Register Number: 212222240028
 
 ## Result: 
 ### Thus the simulation on construction of polar 3D printer is completed & movement of axis along X, Y, & Z has been studied.
